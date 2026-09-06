@@ -1,25 +1,8 @@
 {
-  "name": "StudyStride",
-  "short_name": "StudyStride",
-  "description": "Personal study, focus, workout and knowledge management app for Yubaraj Yadav.",
-  "start_url": "./",
-  "scope": "./",
-  "display": "standalone",
-  "background_color": "#080b12",
-  "theme_color": "#7c6cff",
-  "orientation": "any",
-  "icons": [
-    {
-      "src": "icons/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "icons/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
-  ]
+  "name":"StudyStride",
+  "short_name":"StudyStride",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#080b12",
+  "theme_color":"#7c6cff"
 }
